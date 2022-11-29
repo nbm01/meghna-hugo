@@ -3,7 +3,7 @@ draft = true
 email = ""
 image = ""
 social = []
-title = ""
+title = "Najnin Malek"
 
 +++
 Hi, I'm Najnin Malek!
